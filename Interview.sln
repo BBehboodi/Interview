@@ -14,6 +14,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestPyramid", "TestPyramid"
 		TestPyramid\Readme.md = TestPyramid\Readme.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.NETCore", "ASP.NETCore", "{5AD23E1D-B20A-41FB-A2DC-91B62FC0382B}"
+	ProjectSection(SolutionItems) = preProject
+		ASP.NETCore\ReadMe.md = ASP.NETCore\ReadMe.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
